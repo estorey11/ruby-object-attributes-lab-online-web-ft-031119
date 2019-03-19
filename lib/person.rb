@@ -13,7 +13,7 @@ def Person
     @job=pers_job
   end
   
-  defjob
+  def job
     @job
   end
 end
