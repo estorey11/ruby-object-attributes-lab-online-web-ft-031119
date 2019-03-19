@@ -8,4 +8,12 @@ def Person
     @name
   end
   
+  
+  def job=(pers_job)
+    @job=pers_job
+  end
+  
+  defjob
+    @job
+  end
 end
